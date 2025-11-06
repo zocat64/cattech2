@@ -5,6 +5,10 @@ file = "README.md"
 hash = "c64ab9ace14044ab71c8098b54778d45a923dd9ab395ddd1ac411b1609c3123a"
 
 [[files]]
+file = "config/irons_spellbooks-client.toml"
+hash = "0f3a2a2d55f7b1c2b4cb23a84adde36904a9ba672abfd307692016b83ede9768"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
