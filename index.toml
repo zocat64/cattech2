@@ -1029,6 +1029,11 @@ hash = "bc6e63c3eae09fbb33f93804c38857278144c5a43b568bfd388d9fc5f4a8e3d0"
 metafile = true
 
 [[files]]
+file = "mods/threatengl.pw.toml"
+hash = "8ad08b7e8faec8a46438e1551f717e4a35bba2e23f44f490a35e4275e5030734"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "44ecdae2df678c7cb008e48a3a50079203045a03d16e49aa74637fae97630ce7"
 metafile = true
