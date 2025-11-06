@@ -1,0 +1,13 @@
+name = "NeoEssentials"
+filename = "neoessentials-1.0.2.1_HOTFIX.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/yiaK4SZh/versions/Fqn8J6SH/neoessentials-1.0.2.1_HOTFIX.jar"
+hash-format = "sha512"
+hash = "d1f8cad6c892d5c375a389958830394648ff0c619f65575b077e842926d7c71a88dba1eeae14e7bee4e60442cda56bcad200a1d8da7b588e463535d596a6b540"
+
+[update]
+[update.modrinth]
+mod-id = "yiaK4SZh"
+version = "Fqn8J6SH"

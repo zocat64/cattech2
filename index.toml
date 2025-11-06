@@ -729,6 +729,11 @@ hash = "abfc8909de1c851ccf4ef296e05d1017332a21fef76fd1f938828fcff925115b"
 metafile = true
 
 [[files]]
+file = "mods/neoessentials.pw.toml"
+hash = "42b04e021877d116f6908d77777a8e08989bf663da943b669c4431728b7de16b"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "748bdcbc7788a77881979189827f1baf3f6ef5fdaeb58b00e51e043c2c0abe39"
 metafile = true
@@ -926,11 +931,6 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
-metafile = true
-
-[[files]]
-file = "mods/solstice-essentials.pw.toml"
-hash = "a8c3a1bfe49378683894991fe185bdae4ddff30de90e5134e568c6fed37c5063"
 metafile = true
 
 [[files]]
