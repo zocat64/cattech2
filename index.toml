@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/bug_report.md"
+hash = "20ac1cccf6a2f191ad4872e8cc74aaa7543748abe709d3cd8a804a6c34f8c3ca"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/suggestion.md"
+hash = "957b2f0d75ccb9ef3204ac3dddda8f7cc0758959dc90a15d11a1da47b1ae9c1c"
+
+[[files]]
 file = "README.md"
 hash = "c64ab9ace14044ab71c8098b54778d45a923dd9ab395ddd1ac411b1609c3123a"
 

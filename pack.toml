@@ -1,12 +1,12 @@
 name = "CatTech 2"
 author = "zocat"
-version = "1.2.0"
+version = "1.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c57ec762a33d79d351e30a11110dafb5948ef9069be46a812bdd2d0118dd06ef"
+hash = "221c6961107987f957e327877fdf0a0f0184ef535368cc4b9a0e157548180408"
 
 [versions]
 minecraft = "1.21.1"
