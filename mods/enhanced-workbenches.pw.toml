@@ -1,0 +1,13 @@
+name = "Enhanced Workbenches"
+filename = "enhanced_workbenches-neoforge-2.1.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhBYAM6m/versions/yq2Z4rcU/enhanced_workbenches-neoforge-2.1.1%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "244d7cd7e6ae01c52b2e73f885847225b565c5491eb0d3037032835d188b49db560b809a0d2e45dbcc765d38c40d2a3f21a7cb491b57f68f8c0bc7fcb68a7e04"
+
+[update]
+[update.modrinth]
+mod-id = "IhBYAM6m"
+version = "yq2Z4rcU"

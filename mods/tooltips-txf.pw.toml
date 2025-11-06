@@ -1,0 +1,13 @@
+name = "Tooltips TXF"
+filename = "tooltipstxf-1.21.1-1.0.6-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RJXFHzQ1/versions/ETdPQi8j/tooltipstxf-1.21.1-1.0.6-neoforge.jar"
+hash-format = "sha512"
+hash = "18fff7a1b94855af92bfc44468aa68c4854931afbd54c2a41d825f0c9d198d04fa7534dceb7794d958ff67f410c1e8030ad5381992e64f06449b8d1694838b23"
+
+[update]
+[update.modrinth]
+mod-id = "RJXFHzQ1"
+version = "ETdPQi8j"

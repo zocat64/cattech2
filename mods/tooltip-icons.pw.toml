@@ -1,0 +1,13 @@
+name = "Tooltip Icons"
+filename = "tooltipicons-neoforge-1.21-1.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CcB5GMX8/versions/gSQXOSWn/tooltipicons-neoforge-1.21-1.0.4.jar"
+hash-format = "sha512"
+hash = "4210800977f364b019369cd3e16b889dda81aa229b6ff8093850c9911972fc9e9d480bc547f58463ac261342b270f29a02a26e8c32d8f67f7e046e76866a3dc1"
+
+[update]
+[update.modrinth]
+mod-id = "CcB5GMX8"
+version = "gSQXOSWn"

@@ -1,0 +1,13 @@
+name = "ExtendedAE-Plus"
+filename = "extendedae_plus-1.21.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xr109llC/versions/ZMOMiGYe/extendedae_plus-1.21.1-1.4.3.jar"
+hash-format = "sha512"
+hash = "f1d49d0d9bd4b4fb701b430bba541e4ea02bd8cd0f8f08692703108fe9be3c39ad6870a534d7ecc641ee8081e172d3b1255dea18ed545fa8a8bf27c5badbf964"
+
+[update]
+[update.modrinth]
+mod-id = "xr109llC"
+version = "ZMOMiGYe"

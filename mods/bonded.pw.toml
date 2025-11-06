@@ -1,0 +1,13 @@
+name = "Bonded"
+filename = "bonded-neoforge-1.21.1-1.2.2+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rTXmXcev/versions/mur6ZcEi/bonded-neoforge-1.21.1-1.2.2%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "57bd516070420a4573c46d6c0ccbf9a781ac2408416fb1c4d12c11a20931a00ea5b172f7b66aaf916a7716a26643867d73e726958b70c80f888a741d6360b6b1"
+
+[update]
+[update.modrinth]
+mod-id = "rTXmXcev"
+version = "mur6ZcEi"

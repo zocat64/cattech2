@@ -1,0 +1,13 @@
+name = "Bonded: Simply More Compatibility"
+filename = "bondedsm-common-1.21.1-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zrjMs8t5/versions/z16dFJ3H/bondedsm-common-1.21.1-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "2a30ac57eaa7dfb056dfbd701b8d76ffc0e7a5942f6c018d03b4785bf6e129adc61d7bd9fdddd69740eb86fc15214bba388e28b8e888dea121afaeb7e0da08fc"
+
+[update]
+[update.modrinth]
+mod-id = "zrjMs8t5"
+version = "z16dFJ3H"

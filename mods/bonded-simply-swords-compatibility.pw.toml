@@ -1,0 +1,13 @@
+name = "Bonded: Simply Swords Compatibility"
+filename = "bondedss-common-1.21.1-1.0.0+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gGL2MO9u/versions/NE2fXdsP/bondedss-common-1.21.1-1.0.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "b3d7fbbc3469a415ba2b29492ae7bdd00691caa8b95429dec6a39cb8917ba1c2a298de3d540d74a987ca666757e323c1f86507ad35b54432bcf44e7275e2051f"
+
+[update]
+[update.modrinth]
+mod-id = "gGL2MO9u"
+version = "NE2fXdsP"

@@ -1,0 +1,13 @@
+name = "Vampirism"
+filename = "Vampirism-1.21-1.10.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jVZ0F1wn/versions/4kzyBa4H/Vampirism-1.21-1.10.7.jar"
+hash-format = "sha512"
+hash = "0430b293e08498a64fcf690d0b57b008424fb62c32184f0e8e08073fd8e415c73bc92af126f3f7cee114ed5dfd798aa46dd647813f6447acd195c9ab47b25aaf"
+
+[update]
+[update.modrinth]
+mod-id = "jVZ0F1wn"
+version = "4kzyBa4H"
