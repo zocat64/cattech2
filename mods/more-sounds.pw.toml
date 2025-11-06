@@ -1,0 +1,13 @@
+name = "More Sounds"
+filename = "more_sounds-0.1.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8jvcOd6S/versions/2v4RpMY7/more_sounds-0.1.1-beta.jar"
+hash-format = "sha512"
+hash = "de02c13a92cb7b7ce0aee73b40b48f9410e8dccf9fc57f25c2846c315d2a3d4e995eeb29ce7fc2b79746f215d2f3e1cfe03fd1bc5607a2c2e1e87bfa322c78d4"
+
+[update]
+[update.modrinth]
+mod-id = "8jvcOd6S"
+version = "2v4RpMY7"
