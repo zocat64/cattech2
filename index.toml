@@ -195,11 +195,6 @@ hash = "4d9264c9550ed32948bd6ea78cb53ba80dd01da8e6c10fa8de4fa52c1bff4d8d"
 metafile = true
 
 [[files]]
-file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -910,6 +905,11 @@ hash = "a73dfb1bf6884ae786b2def0624dee9010bf121d0b5678b46043d9312f54b501"
 metafile = true
 
 [[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "a8c3a1bfe49378683894991fe185bdae4ddff30de90e5134e568c6fed37c5063"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "a2028f1fdc803760a29877b07b2958cecdc6402eb946f9d5a0fff9fe72b8671d"
 metafile = true
@@ -1042,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "c41f6ccffb66b9095efabea4eda10dd61bdb375cbeccbab638b3c139c1b00161"
+metafile = true
+
+[[files]]
+file = "mods/vampires-delight.pw.toml"
+hash = "76163709136a946e26f413eea91c66dd88f904a2734eb6cac22e71551d11a121"
 metafile = true
 
 [[files]]
