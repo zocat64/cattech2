@@ -239,6 +239,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/craftable-gunpowder-balanced.pw.toml"
 hash = "bd01fd94448594fe59089b93f5879e91ca15439001d2515aef98f0b506fd01a2"
 metafile = true
@@ -846,6 +851,11 @@ metafile = true
 [[files]]
 file = "mods/rsls.pw.toml"
 hash = "6e60236946a1e2909eb5c59776c79feba58489523e4283b3b64ce6641638d585"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
