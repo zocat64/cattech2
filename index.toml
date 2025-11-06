@@ -537,6 +537,11 @@ hash = "f573314b90c03e02dcb6d38cb5b9925eb22a433f08f38c96a795107730027ce5"
 metafile = true
 
 [[files]]
+file = "mods/guide-api.pw.toml"
+hash = "d973a76275a2ed58cda27e322b6bebe217144f1083f5a3eb41074dd2785a4fd5"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
